@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700495346335",
+    "firebase_url": "https://cfalingo-site-default-rtdb.firebaseio.com",
+    "project_id": "cfalingo-site",
+    "storage_bucket": "cfalingo-site.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700495346335:android:7ffd72eee3a92e8cfac0aa",
+        "android_client_info": {
+          "package_name": "com.cfalingo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700495346335-pqig7dj2jjcb8acbgf2jtlmuuu3mujbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6F1aC8NKSEVDeQ_-pL-Xg9MxGvKbZkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700495346335-pqig7dj2jjcb8acbgf2jtlmuuu3mujbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
