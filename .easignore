@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+.git/
+.expo/
+.eas-cache/
+dist/
+web-build/
